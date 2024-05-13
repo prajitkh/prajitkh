@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @prajitkh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @prajitkh
 
-<!---
-prajitkh/prajitkh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in Java development, software engineering, and open-source projects.
+
+🌱 I’m currently learning advanced data structures and algorithms to enhance my problem-solving skills.
+
+💞️ I’m looking to collaborate on Java projects that involve innovative solutions and contribute to the developer community.
